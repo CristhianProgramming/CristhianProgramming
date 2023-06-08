@@ -26,11 +26,11 @@ Hola, soy Cristhian, un apasionado de la programación y un desarrollador feliz 
     - MySQL
     - SQL Sever
     - Oracle DB
-    - Mongo DB (Aprendiendo 📝)
+    - Mongo DB 
  
 - 🌐 Nube
     - AWS (Aprendiendo 📝)
-    - Docker (Aprendiendo 📝)
+    - Docker 
      
 - 🎨 Html , Css , Boostrap , Tailwinds
 
