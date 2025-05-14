@@ -29,7 +29,7 @@ Hola, soy Cristhian, un apasionado de la programación y un desarrollador feliz 
     - Mongo DB 
  
 - 🌐 Nube
-    - AWS (Aprendiendo 📝)
+    - AWS ( EC2 , Lambda , RDS , S3 , ClodFront )
     - Docker 
      
 - 🎨 Html , Css , Boostrap , Tailwinds
